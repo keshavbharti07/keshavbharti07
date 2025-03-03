@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshav Bharti</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **Diabetes Detection Using SVM**
+- 🔭 I’m currently working on **Diabetes Detection Using ML**
 
 - 🌱 I’m currently learning **Data Structure and algorithm**
 
